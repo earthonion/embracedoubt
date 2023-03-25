@@ -1,0 +1,587 @@
+{
+  "METADATA_VERSION": 20001,
+  "allow_disabled_algorithms": false,
+  "com.cuiet.blockCalls_Phone_src.apk": {
+    "hash": "8afde5480ffb868ac58ed3c99cb762f3fdac171264cef3648efed04721dce39f",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.READ_CALL_LOG",
+        null
+      ],
+      [
+        "android.permission.WRITE_CALL_LOG",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.READ_CONTACTS",
+        null
+      ],
+      [
+        "android.permission.READ_PHONE_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_PHONE_NUMBERS",
+        null
+      ],
+      [
+        "android.permission.CALL_PHONE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "com.android.vending.BILLING",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.GET_TASKS",
+        null
+      ],
+      [
+        "android.permission.PACKAGE_USAGE_STATS",
+        null
+      ],
+      [
+        "android.permission.GET_ACCOUNTS",
+        null
+      ],
+      [
+        "android.permission.MANAGE_ACCOUNTS",
+        null
+      ],
+      [
+        "android.permission.DISABLE_KEYGUARD",
+        null
+      ],
+      [
+        "android.permission.USE_FULL_SCREEN_INTENT",
+        null
+      ],
+      [
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.WRITE_CONTACTS",
+        null
+      ],
+      [
+        "android.permission.PROCESS_OUTGOING_CALLS",
+        null
+      ],
+      [
+        "android.permission.BLUETOOTH_CONNECT",
+        null
+      ],
+      [
+        "com.google.android.gms.permission.AD_ID",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "android.permission.USE_FINGERPRINT",
+        null
+      ],
+      [
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [
+      [
+        "android.permission.ACCESS_NOTIFICATION_POLICY",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ]
+    ],
+    "features": [
+      "android.hardware.telephony"
+    ],
+    "icons_src": {
+      "480": "res/mipmap-xxhdpi/ic_launcher.png",
+      "240": "res/mipmap-hdpi/ic_launcher.png",
+      "160": "res/mipmap-mdpi/ic_launcher.png",
+      "320": "res/mipmap-xhdpi/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi/ic_launcher.png",
+      "-1": "res/mipmap-mdpi/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.cuiet.blockCalls.639.png",
+      "480": "com.cuiet.blockCalls.639.png",
+      "320": "com.cuiet.blockCalls.639.png",
+      "240": "com.cuiet.blockCalls.639.png",
+      "160": "com.cuiet.blockCalls.639.png",
+      "0": "com.cuiet.blockCalls.639.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.cuiet.blockCalls",
+    "versionCode": 639,
+    "name": "Phone",
+    "versionName": "6.3.9",
+    "minSdkVersion": 23,
+    "targetSdkVersion": 32,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "cdf9854045ddc30127b824f3f893dbae",
+    "signer": "6215f00baa4bf18bab5792fc796bfc5555917240f14f7c7e672d956888d75c96",
+    "size": 29964383,
+    "apkName": "com.cuiet.blockCalls_Phone_src.apk",
+    "icon": "com.cuiet.blockCalls.639.png",
+    "added": 1660968258.143281
+  },
+  "com.delphicoder.flud_Flud_src.apk": {
+    "hash": "4f2193b91a7e0010a5b243b05d5f25295d52ba58bcd4cd47d52c1662bdeb3458",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_STATE",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi/ic_launcher.png",
+      "160": "res/mipmap-mdpi/ic_launcher.png",
+      "320": "res/mipmap-xhdpi/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi/ic_launcher.png",
+      "-1": "res/mipmap-mdpi/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.delphicoder.flud.2000095.png",
+      "480": "com.delphicoder.flud.2000095.png",
+      "320": "com.delphicoder.flud.2000095.png",
+      "240": "com.delphicoder.flud.2000095.png",
+      "160": "com.delphicoder.flud.2000095.png",
+      "0": "com.delphicoder.flud.2000095.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.delphicoder.flud",
+    "versionCode": 2000095,
+    "name": "Flud",
+    "versionName": "1.8.3.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "cdf9854045ddc30127b824f3f893dbae",
+    "signer": "6215f00baa4bf18bab5792fc796bfc5555917240f14f7c7e672d956888d75c96",
+    "size": 14842300,
+    "apkName": "com.delphicoder.flud_Flud_src.apk",
+    "icon": "com.delphicoder.flud.2000095.png",
+    "added": 1660968260.516609
+  },
+  "com.tomminosoftware.sqliteeditor_SQLite Editor_src.apk": {
+    "hash": "65ea213b7a5770f320f5bd92c76c5d6002b7babaed08e4c7e374f2e8856864aa",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.MANAGE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "com.android.vending.BILLING",
+        null
+      ],
+      [
+        "com.google.android.gms.permission.AD_ID",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "160": "res/mipmap-mdpi/icon.png",
+      "240": "res/mipmap-hdpi/icon.png",
+      "320": "res/mipmap-xhdpi/icon.png",
+      "480": "res/mipmap-xxhdpi/icon.png",
+      "640": "res/mipmap-xxxhdpi/icon.png",
+      "-1": "res/mipmap-mdpi/icon.png"
+    },
+    "icons": {
+      "640": "com.tomminosoftware.sqliteeditor.61.png",
+      "480": "com.tomminosoftware.sqliteeditor.61.png",
+      "320": "com.tomminosoftware.sqliteeditor.61.png",
+      "240": "com.tomminosoftware.sqliteeditor.61.png",
+      "160": "com.tomminosoftware.sqliteeditor.61.png",
+      "0": "com.tomminosoftware.sqliteeditor.61.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.tomminosoftware.sqliteeditor",
+    "versionCode": 61,
+    "name": "SQLite Editor",
+    "versionName": "2.4",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 30,
+    "sig": "cdf9854045ddc30127b824f3f893dbae",
+    "signer": "6215f00baa4bf18bab5792fc796bfc5555917240f14f7c7e672d956888d75c96",
+    "size": 3924627,
+    "apkName": "com.tomminosoftware.sqliteeditor_SQLite Editor_src.apk",
+    "icon": "com.tomminosoftware.sqliteeditor.61.png",
+    "added": 1660968262.016815
+  },
+  "ee.dustland.android.minesweeper_Minesweeper_src.apk": {
+    "hash": "a91c0fc6769b0c153243a634954011bcb5b167d6a4a26b1b2df9de954d823d44",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.android.vending.BILLING",
+        null
+      ],
+      [
+        "com.google.android.gms.permission.AD_ID",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi/ic_launcher.png",
+      "160": "res/mipmap-mdpi/ic_launcher.png",
+      "320": "res/mipmap-xhdpi/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi/ic_launcher.png",
+      "-1": "res/mipmap-mdpi/ic_launcher.png"
+    },
+    "icons": {
+      "640": "ee.dustland.android.minesweeper.40.png",
+      "480": "ee.dustland.android.minesweeper.40.png",
+      "320": "ee.dustland.android.minesweeper.40.png",
+      "240": "ee.dustland.android.minesweeper.40.png",
+      "160": "ee.dustland.android.minesweeper.40.png",
+      "0": "ee.dustland.android.minesweeper.40.png"
+    },
+    "antiFeatures": [],
+    "packageName": "ee.dustland.android.minesweeper",
+    "versionCode": 40,
+    "name": "Minesweeper",
+    "versionName": "1.6.4",
+    "minSdkVersion": 23,
+    "targetSdkVersion": 31,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "cdf9854045ddc30127b824f3f893dbae",
+    "signer": "6215f00baa4bf18bab5792fc796bfc5555917240f14f7c7e672d956888d75c96",
+    "size": 29817853,
+    "apkName": "ee.dustland.android.minesweeper_Minesweeper_src.apk",
+    "icon": "ee.dustland.android.minesweeper.40.png",
+    "added": 1660968263.974972
+  },
+  "net.argongames.minitd2_Mini TD 2_src.apk": {
+    "hash": "86fc62891bae39a1fed40fa7f1261c74c0cdf01d227cf7cb93fe9b1688dbc2a9",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        18
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "com.android.vending.BILLING",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        18
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi/app_icon.png",
+      "120": "res/mipmap-ldpi/app_icon.png",
+      "160": "res/mipmap-mdpi/app_icon.png",
+      "320": "res/mipmap-xhdpi/app_icon.png",
+      "480": "res/mipmap-xxhdpi/app_icon.png",
+      "640": "res/mipmap-xxxhdpi/app_icon.png",
+      "-1": "res/mipmap-mdpi/app_icon.png"
+    },
+    "icons": {
+      "640": "net.argongames.minitd2.31.png",
+      "480": "net.argongames.minitd2.31.png",
+      "320": "net.argongames.minitd2.31.png",
+      "240": "net.argongames.minitd2.31.png",
+      "160": "net.argongames.minitd2.31.png",
+      "120": "net.argongames.minitd2.31.png",
+      "0": "net.argongames.minitd2.31.png"
+    },
+    "antiFeatures": [],
+    "packageName": "net.argongames.minitd2",
+    "versionCode": 31,
+    "name": "Mini TD 2",
+    "versionName": "1.43",
+    "minSdkVersion": 19,
+    "targetSdkVersion": 30,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "cdf9854045ddc30127b824f3f893dbae",
+    "signer": "6215f00baa4bf18bab5792fc796bfc5555917240f14f7c7e672d956888d75c96",
+    "size": 19411541,
+    "apkName": "net.argongames.minitd2_Mini TD 2_src.apk",
+    "icon": "net.argongames.minitd2.31.png",
+    "added": 1660968265.14283
+  },
+  "com.fillobotto.mp3tagger_AutomaTag_src.apk": {
+    "hash": "a7cf39d5feb471aad024563cd27a9c1a1a5f5b0d77d31960c4d6e9edf9e61ac1",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "com.android.vending.BILLING",
+        null
+      ],
+      [
+        "android.permission.READ_INTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_INTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "480": "res/mipmap-xxhdpi/ic_launcher.png",
+      "160": "res/mipmap-mdpi/ic_launcher.png",
+      "240": "res/mipmap-hdpi/ic_launcher.png",
+      "320": "res/mipmap-xhdpi/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi/ic_launcher.png",
+      "-1": "res/mipmap-mdpi/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.fillobotto.mp3tagger.722.png",
+      "480": "com.fillobotto.mp3tagger.722.png",
+      "320": "com.fillobotto.mp3tagger.722.png",
+      "240": "com.fillobotto.mp3tagger.722.png",
+      "160": "com.fillobotto.mp3tagger.722.png",
+      "0": "com.fillobotto.mp3tagger.722.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.fillobotto.mp3tagger",
+    "versionCode": 722,
+    "name": "AutomaTag",
+    "versionName": "2.2.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "cdf9854045ddc30127b824f3f893dbae",
+    "signer": "6215f00baa4bf18bab5792fc796bfc5555917240f14f7c7e672d956888d75c96",
+    "size": 8745082,
+    "apkName": "com.fillobotto.mp3tagger_AutomaTag_src.apk",
+    "icon": "com.fillobotto.mp3tagger.722.png",
+    "added": 1661221460.733637
+  },
+  "keystore.p12": {
+    "name": "keystore",
+    "apkName": "keystore.p12",
+    "hash": "07f14e13fb2261025b6932eccaf440f0fb2b71e981f2972f5a4a605f6bb529f4",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "07f14e1",
+    "packageName": "07f14e13fb2261025b6932eccaf440f0fb2b71e981f2972f5a4a605f6bb529f4",
+    "size": 4255,
+    "added": 1661221461.12137
+  },
+  "config.yml": {
+    "name": "config",
+    "apkName": "config.yml",
+    "hash": "e199845451f56058aa9d0c38e4a9ced790868a1d6dc0b6e1076272a7faaa20f7",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "e199845",
+    "packageName": "e199845451f56058aa9d0c38e4a9ced790868a1d6dc0b6e1076272a7faaa20f7",
+    "size": 181,
+    "added": 1661221461.121759
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "/etc/issue.net": "Debian GNU/Linux 11",
+  "commandLine": [
+    "/usr/bin/fdroid update",
+    "-c"
+  ],
+  "startTimestamp": 1661221069000,
+  "subcommand": "update"
+}
